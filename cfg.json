@@ -1,0 +1,21 @@
+{
+    "debug":true,
+    "logfile": "./app.log",
+    "log_max_age": 432000,
+    "log_rotate_age": 86400,
+    "redis": {
+	    "enabled": true,
+	    "server": "10.189.20.26",
+	    "port": "6379",
+	    "max_idle": 5,
+	    "max_active": 4,
+	    "idle_timeout": 30,
+	    "lock_key": "/redis-lock-cluster",
+	    "lock_time": 5,
+	    "ask_lock_time": 3
+    },
+    "http": {
+        "address": "0.0.0.0",
+        "port": "8080"
+    }
+}

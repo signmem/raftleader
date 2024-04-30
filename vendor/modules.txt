@@ -1,0 +1,47 @@
+# github.com/cespare/xxhash/v2 v2.2.0
+## explicit; go 1.11
+github.com/cespare/xxhash/v2
+# github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
+## explicit
+github.com/coreos/go-systemd/journal
+# github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f
+## explicit
+github.com/dgryski/go-rendezvous
+# github.com/gomodule/redigo v1.9.2
+## explicit; go 1.17
+github.com/gomodule/redigo/redis
+# github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
+## explicit
+github.com/kardianos/osext
+# github.com/lestrrat/go-file-rotatelogs v0.0.0-20180223000712-d3151e2a480f
+## explicit
+github.com/lestrrat/go-file-rotatelogs
+# github.com/lestrrat/go-strftime v0.0.0-20180220042222-ba3bf9c1d042
+## explicit
+github.com/lestrrat/go-strftime
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/redis/go-redis/v9 v9.5.1
+## explicit; go 1.18
+github.com/redis/go-redis/v9
+github.com/redis/go-redis/v9/internal
+github.com/redis/go-redis/v9/internal/hashtag
+github.com/redis/go-redis/v9/internal/hscan
+github.com/redis/go-redis/v9/internal/pool
+github.com/redis/go-redis/v9/internal/proto
+github.com/redis/go-redis/v9/internal/rand
+github.com/redis/go-redis/v9/internal/util
+# github.com/signmem/falcon-plus v0.1.1
+## explicit; go 1.21.8
+github.com/signmem/falcon-plus/common/redisdb
+# github.com/signmem/go-log v0.0.0-20240403024112-86a3635680b9
+## explicit
+github.com/signmem/go-log/log
+# github.com/signmem/log-template v0.0.0-20240415020831-25b667329ec8
+## explicit
+github.com/signmem/log-template/g
+github.com/signmem/log-template/tools
+# github.com/signmem/redislock v0.0.0-20240429073207-03e83a3aa6eb
+## explicit
+github.com/signmem/redislock
